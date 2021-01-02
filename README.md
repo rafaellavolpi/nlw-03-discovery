@@ -14,7 +14,7 @@ Tecnologias e ferramentas:
 > SQL
 
 Contribuições:
-> O desenvolvimento do Happy tem como principal objetivo o <strong> estudo das linguagens de programação </strong> por quem está iniciando na área. Por ser um dos meus primeiros projetos, agradeço se você puder compartilhar comigo o que você já sabe!:)
+> O desenvolvimento do Happy tem como principal objetivo o <strong> estudo das linguagens de programação </strong> por quem está iniciando na área. Por ser um dos meus primeiros projetos, agradeço se você puder compartilhar comigo o que você já sabe!    :)
 
 Autora: 
 > Sou bióloga e mestre em ciências, mas tenho me apaixonado cada vez mais pelo universo da tecnologia.
