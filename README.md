@@ -1,4 +1,8 @@
 # nlw-03-discovery
+
+Ideação do projeto:
+O Happy foi desenvolvido durante a 3ª Next Level Week da Rocketseat.
+
 Objetivo:
 > Levar felicidade à crianças e adolescentes que residem em orfanatos
 
